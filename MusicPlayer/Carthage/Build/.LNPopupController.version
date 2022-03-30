@@ -1,0 +1,17 @@
+{
+  "commitish" : "2.10.33",
+  "iOS" : [
+    {
+      "hash" : "bbb765fa0a222ef80ca13ceb0447f2293efabb40bc76e36986856912382ad23e",
+      "name" : "LNPopupController",
+      "container" : "LNPopupController.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "800537d02f2eddcb610a5017861c9dbc1b50b6884bcd18530b9717dce689dac4",
+      "name" : "LNPopupController",
+      "container" : "LNPopupController.xcframework",
+      "identifier" : "ios-arm64"
+    }
+  ]
+}

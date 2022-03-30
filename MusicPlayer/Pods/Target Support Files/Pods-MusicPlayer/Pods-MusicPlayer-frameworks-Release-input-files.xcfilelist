@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-MusicPlayer/Pods-MusicPlayer-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/GRDB.swift/GRDB.framework
+${BUILT_PRODUCTS_DIR}/LeanCloud/LeanCloud.framework
+${BUILT_PRODUCTS_DIR}/SPStorkController/SPStorkController.framework
+${BUILT_PRODUCTS_DIR}/SwiftProtobuf/SwiftProtobuf.framework
